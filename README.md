@@ -27,7 +27,7 @@ Developed by Maximiliano Morales Domínguez, the project’s creator. Artificial
 LICENSE:
 © 2026 Maximiliano Morales Domínguez.
 
-This project is distributed under the GNU GPL-3.0 license (see the [LICENSE] file). You are permitted to use, study, modify, and distribute the software, provided that any modified versions you distribute retain the same license, maintain credit to the original author, and provide the source code.
+This project is distributed under the GNU GPL-3.0 license see the [LICENSE] file). You are permitted to use, study, modify, and distribute the software, provided that any modified versions you distribute retain the same license, maintain credit to the original author, and provide the source code.
 Third-party components: Three.js (MIT license) and the EB Garamond, Lato, Noto Sans, Inter, and JetBrains Mono fonts (SIL Open Font License). The content of the fact sheets cites its original sources, which retain their own rights.
 
 
@@ -61,6 +61,6 @@ Desarrollado por Maximiliano Morales Domínguez, autor intelectual del proyecto.
 LICENCIA: 
 © 2026 Maximiliano Morales Domínguez.
 
-Este proyecto se distribuye bajo la licencia GNU GPL-3.0 (ver el archivo [LICENSE]. Se permite usar, estudiar, modificar y distribuir el software, siempre que las versiones modificadas que se distribuyan conserven la misma licencia, mantengan el crédito al autor original y ofrezcan su código fuente.
+Este proyecto se distribuye bajo la licencia GNU GPL-3.0 ver el archivo [LICENSE]. Se permite usar, estudiar, modificar y distribuir el software, siempre que las versiones modificadas que se distribuyan conserven la misma licencia, mantengan el crédito al autor original y ofrezcan su código fuente.
 Componentes de terceros: Three.js (licencia MIT) y las fuentes EB Garamond, Lato, Noto Sans, Inter y JetBrains Mono (licencia SIL Open Font License). El contenido de las fichas cita sus fuentes originales, que conservan sus propios derechos.
 

@@ -1,0 +1,25 @@
+{
+  "name": "cerebrum-oscura",
+  "version": "1.0.0",
+  "description": "Cerebrum: atlas interactivo 3D del encéfalo y neurociencia celular (diseño oscuro)",
+  "author": "Maximiliano Morales Domínguez",
+  "license": "GPL-3.0-only",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/generar-modelo.mjs && vite build && node scripts/copiar.mjs",
+    "preview": "vite preview",
+    "generar": "node scripts/generar-modelo.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter-tight": "^5.1.1",
+    "@fontsource/jetbrains-mono": "^5.1.1",
+    "three": "^0.170.0",
+    "three-mesh-bvh": "^0.8.3"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7",
+    "vite-plugin-singlefile": "^2.1.0"
+  }
+}

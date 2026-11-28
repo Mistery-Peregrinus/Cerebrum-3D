@@ -1,0 +1,5 @@
+Datos derivados de BodyParts3D, © The Database Center for Life Science, licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+https://dbarchive.biosciencedbc.jp/en/bodyparts3d/
+Generados con scripts/preparar-bp3d.mjs a partir del paquete partof_BP3D_4.0_obj_99 (escalados, voxelizados y con los huecos rellenos).
+Texto de la licencia: https://creativecommons.org/licenses/by/4.0/
+The Database Center for Life Science no participa en este proyecto ni lo respalda.
